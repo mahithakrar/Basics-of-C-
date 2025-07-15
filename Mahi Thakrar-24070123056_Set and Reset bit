@@ -16,3 +16,10 @@ int main() {
     
     return 0;
 }
+
+//Enter the bit position to be set : 
+//3
+//Enter the bit position to be reset : 
+//5
+//Your number after setting is : 42
+//Your number after resetting is : 2

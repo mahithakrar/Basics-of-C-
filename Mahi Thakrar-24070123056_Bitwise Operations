@@ -20,3 +20,10 @@ int main() {
     
     return 0;
 }
+
+//AND: 9
+//OR: 29
+//NOT: -26
+//XOR: 20
+//LEFT SHIFT: 50
+//RIGHT SHIFT: 12

@@ -37,3 +37,13 @@ int main() {
 
     return 0;
 }
+
+//1.Dancer
+//2.Engineer
+//3.Doctor
+//4.Singer
+//5.Housewife
+//6.Others
+//Enter your profession:
+//5
+//Housewife
